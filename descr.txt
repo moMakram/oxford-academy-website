@@ -1,0 +1,29 @@
+add course   =>  add_course.php
+
+add teacher  =>  add_teacher.php
+
+
+add student  =>  add_student.php
+
+
+update student => updatestd_form.php
+
+
+add student course  => updatestud_form.php
+
+
+add time     =>  add_type.php
+
+
+update time  => updatetype_form.php
+
+
+add tasks    =>  add_task.php
+
+
+add cv teacher  => add_cv.php
+
+
+
+
+
